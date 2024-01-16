@@ -1,5 +1,5 @@
 # Stuff easy to break with updates
-torch==1.7.1
+torch==1.13.0
 pytorch-lightning==1.2.5
 hydra-core==1.1.0.dev5
 wandb>=0.10.23
